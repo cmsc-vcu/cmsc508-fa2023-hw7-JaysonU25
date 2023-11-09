@@ -87,7 +87,11 @@ insert into people (people_id, people_first_name, people_last_name, people_date_
     (3, "Ben",'Person 3', "2023-01-03"),
     (4, "Bob",'Person 4', "2023-01-04"),
     (5, "Paul",'Person 5', "2023-01-05"),
-    (6, "Goku",'Person 6', "2023-01-06");
+    (6, "Goku",'Person 6', "2023-01-06"),
+    (7, "Dad?",'Person 7', "2023-01-01"),
+    (8, "Chris",'Person 8', "2023-01-02"),
+    (9, "Leonardo",'Person 9', "2023-01-03"),
+    (10, "Ted",'Person 10', "2023-01-04");
     
 
 
